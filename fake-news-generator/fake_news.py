@@ -1,4 +1,5 @@
-# idea: a fake and funny news generator program/app
+#idea: 
+#a fake and funny news generator program/app
 
 #how it works: 
 #1- there will be three list of words (subject, verb, object)

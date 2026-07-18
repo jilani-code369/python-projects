@@ -13,6 +13,9 @@
 #3- while loop : to ask to user whether to continue or exit
 #4- input() module : to take input form the user
 
+#6- strip() : to remove extra space
+#7- lower() : to convert strings into lowercase
+
 
 #pesudocode: 
 # ?
